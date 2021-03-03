@@ -1,0 +1,1 @@
+tsc --outDir app main.ts
